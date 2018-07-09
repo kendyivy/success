@@ -1,0 +1,91 @@
+.main{
+  width: 900px;
+  height: 500px;
+  margin: 0px auto;
+
+
+}
+.img{
+	width: 900px;
+    height: 550px;
+    padding: 20px;
+
+}
+.mobile{
+	width:250px;
+	height: 380px;
+	background-color: white;
+	border-bottom: 70px solid #000004;
+	position: relative;
+	bottom:497px;
+	margin: 0px auto;
+	border-radius: 20px;
+	transform: rotate(130deg);
+	border-top:40px solid #000004;
+	border-right: 5px solid #000004;
+	border-left: 5px solid #000004;
+
+}
+.fa-circle-thin{
+	color: white;
+	position: relative;
+	bottom:40px;
+	left: 110px;
+}
+.champ{
+	width: 180px;
+	height: 340px;
+	transform: rotate(180deg);
+	position: relative;
+	left: 40px;
+}
+.box{
+	width: 250px;
+	height: 50px;
+	background-color: #4161ae;
+	position: relative;
+	bottom: 280px;
+}
+.fa-facebook{
+	color: white;
+	transform: rotate(180deg);
+	position: relative;
+	left: 190px;
+	top: 5px;
+}
+h1{
+	position: relative;
+	bottom: 50px;
+	transform: rotate(180deg);
+	right: 105px;
+	color: white;
+}
+.two{
+	width: 250px;
+	height: 50px;
+	background-color: #5e93d7;
+    position: relative;
+	bottom: 390px;
+}
+.fa-twitter{
+	color: white;
+	transform: rotate(180deg);
+	position: relative;
+	left: 190px;
+}
+h2{
+	position: relative;
+	bottom: 60px;
+	transform: rotate(180deg);
+	right: 100px;
+	color: white;
+	font-size: 30px;
+
+
+}
+.fa-window-minimize{
+	color: gray;
+	position: relative;
+	top: 400px;
+	left: 70px;
+}
